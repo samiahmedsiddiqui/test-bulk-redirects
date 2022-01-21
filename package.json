@@ -1,0 +1,17 @@
+{
+  "name": "test-bulk-redirects",
+  "description": "Check HTTP Status and create a list for all the HTTP status code.",
+  "version": "1.0.0",
+  "scripts": {
+    "test:bulk-redirects": "node test/bulk-redirects.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samiahmedsiddiqui/test-bulk-redirects.git"
+  },
+  "author": "Sami Ahmed Siddiqui <sami.siddiqui@yasglobal.com> (https://www.yasglobal.com/)",
+  "homepage": "https://github.com/samiahmedsiddiqui/test-bulk-redirects",
+  "dependencies": {
+    "check-http-status": "1.3.0"
+  }
+}
